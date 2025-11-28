@@ -1,0 +1,11 @@
+.planet-card {
+  max-width:420px; margin:44px auto; padding:34px 18px;
+  background: linear-gradient(120deg, #46b1ee 60%, #3ed268 100%);
+  color: #fff; border-radius: 18px;
+  box-shadow: 0 2px 16px #46b1ee44; text-align: center;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+.planet-card h2 { font-size:2em; margin-bottom:13px;}
+.planet-card a { color:#ffd700; font-weight:500; text-decoration:none;}
+.planet-card a:hover { color:#fff; text-decoration:underline; }
+.moon-icon {font-size:1.1em;}
